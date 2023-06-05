@@ -4,7 +4,7 @@ package dev.aman;
 
 public class MyLinkedList implements NodeList{
 
-    protected ListItem root;
+    private ListItem root;
 
     public MyLinkedList(ListItem root) {
         this.root = root;
