@@ -3,7 +3,7 @@ package dev.aman;
 
 
 public abstract class ListItem {
-    // write code here
+
     protected ListItem rightLink, leftLink;
     protected Object value;
 
